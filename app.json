@@ -1,4 +1,4 @@
-{
+9{
     "name": "BOBIZ - MD",
     "description": "BOBIZMD  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg",
@@ -16,12 +16,12 @@
            
            "URL_1NAME": {
             "description": "",
-            "value": "🎃تـابعني على الانستغرام🎃" ,
+            "value": "Group WhatsApp " ,
             "required": true
       },
            "URL_1LINK": {
             "description": "",
-            "value": "http://instagram.com/noureddine_ouafy" ,
+            "value": "https://chat.whatsapp.com/H7eZgKBB9LeGQJk4jZXxWL" ,
             "required": true
       },
      "URL_2NAME": {
